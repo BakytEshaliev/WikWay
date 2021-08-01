@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="300dp"
+        android:layout_height="146dp"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:contentDescription="@string/delete"
+            android:gravity="center"
+            android:scrollbarSize="40dp"
+            android:shadowColor="#00A20101"
+            android:text="@string/delete"
+            android:textSize="40sp" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/button_ok"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginStart="50dp"
+            android:layout_marginLeft="50dp"
+            android:layout_weight="1"
+            android:clickable="true"
+            android:focusable="true"
+            app:backgroundTint="#4CAF50"
+            app:srcCompat="@drawable/ic_check_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/button_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|right"
+            android:clickable="true"
+            android:layout_weight="1"
+            android:layout_marginRight="50dp"
+            app:backgroundTint="@android:color/holo_red_dark"
+            app:srcCompat="@drawable/ic_clear_black_24dp"
+            tools:ignore="VectorDrawableCompat" />
+
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.cardview.widget.CardView>

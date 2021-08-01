@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Wik Way</string>
+    <string name="title_home">Home</string>
+    <string name="title_list">My List</string>
+    <string name="item_important">Important</string>
+    <string name="berufsfeld">Berufsfeld:</string>
+    <string name="stelle">Stelle:</string>
+    <string name="einsatzort">Einsatzort:</string>
+    <string name="icon">Icon</string>
+    <string name="photo">Photo</string>
+    <string name="company_details">About company</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="delete">Delete?</string>
+    <string name="OK">Ok</string>
+    <string name="Cancel">Cancel</string>
+    <string name="clear_filter">Clear</string>
+    <string name="ok_filter">Ok</string>
+    <string name="back">Back</string>
+    <string name="ihr_aufgabengebiet">Ihr Aufgabengebiet</string>
+    <string name="ihr_profil">Ihr Profil</string>
+    <string name="kontakt">Kontakt</string>
+    <string name="anschrift">Anschrift</string>
+    <string name="weiterempfehlen">Diese Stelle weiterempfehlen</string>
+    <string name="title_activity_show_full_info">ShowFullInfo</string>
+
+
+</resources>
