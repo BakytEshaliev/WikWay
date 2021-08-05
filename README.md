@@ -1,8 +1,8 @@
 # WikWay
 This is android application for job search. Application was developed during Mobile development class as a group project. My task was to programm all back end part.
 ## Main functions
-<li> Show list of all jobs via API of job portal <\li>
-<li> Show more information about selected job <\li>
+<li> Show list of all jobs via API of job portal </li>
+<li> Show more information about selected job </li>
 <li> Add job to your favorit list </li>
 <li> Filter jobs </li>
   
